@@ -1,1 +1,8 @@
 # THE-PACK-SCHOOL
+
+body { font-family: sans-serif; margin: 0; padding: 0; background: #f0f0f0; color: #333; }
+header { background: #00aaff; color: white; padding: 1em; text-align: center; }
+.logo { width: 80px; height: auto; display: block; margin: 0 auto; }
+nav a { margin: 0 10px; color: white; text-decoration: none; }
+main { padding: 20px; }
+footer { background: #333; color: white; text-align: center; padding: 10px; }
